@@ -1,0 +1,11 @@
+name: AntiCheat
+version: 1.0
+main: com.thxago.anticheat.AntiCheat
+api-version: 1.8
+author: Thxago
+description: Um AntiCheat avançado para Minecraft 1.8
+commands:
+  anticheat:
+    description: Comandos do AntiCheat
+    usage: /<command> [subcomando]
+    aliases: [ac]
